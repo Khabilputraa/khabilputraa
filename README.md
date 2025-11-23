@@ -62,10 +62,10 @@
 
 ## 🌐 Connect  
 <div align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/khabilputraa_/)">
     <img src="https://img.shields.io/badge/Instagram-1f2937?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="khaput87@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
